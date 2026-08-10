@@ -1,6 +1,8 @@
 # Flutter_Test_App
 Use the provided UI reference to implement the Flutter interview test in this repository:
 
+https://www.figma.com/design/waRa9RB4DnCVg55tqdF3cu/Flutter-Interview-Test?node-id=0-1&t=SP6JDWR5D2VdSubk-1
+
 `https://github.com/Manthan348/Flutter_Test_App`
 
 The objective is to recreate the provided design accurately while maintaining clean, scalable, and production-quality Flutter code.
